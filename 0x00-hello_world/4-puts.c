@@ -1,7 +1,6 @@
 #include <stdio.h>
 /*
- * main - print a given phrase
- * 
+ * main - print a given phrase 
  * Return: 0
  */
 int main(void)
